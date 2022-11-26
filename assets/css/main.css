@@ -256,7 +256,7 @@ body.light-theme{
 }
 
 .home-bg{
-  background: url(../assets/img/background.jpg) no-repeat;
+  background: url("../assets/img/background.jpg") no-repeat;
   background-size: cover;
   align-items: center;
   backdrop-filter: grayscale(100%);
